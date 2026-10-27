@@ -193,7 +193,6 @@
       gap: 20px;
   }
 
-  /* ===== RESPONSIF (HP / layar kecil) ===== */
   @media (max-width: 900px) {
       .film-list {
           grid-template-columns: repeat(2, 1fr);
